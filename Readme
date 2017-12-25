@@ -1,8 +1,9 @@
 Computer-generated Suduko game.
 Author: Omar Kadhim - Fall 2017
 
-Rudimentary implementation of Suduko in the python mode of Processing,
-works by generating a valid Suduko game using random cell-by-cell assignment and backtracking, then blanking out a portion of cells to play. 
+Rudimentary implementation of Suduko with GUI in the python mode of Processing,
+works by generating a valid Suduko game using random cell-by-cell assignment and backtracking, 
+then blanking out a portion of cells for the user to figure out.
 ___
 
 ### Update Log:
@@ -12,7 +13,8 @@ ____
 
 ### Getting Started:
 
-You will need Processing and its python mode installed to run this programme. These can be downloaded here:
+You will need Processing and its python mode installed to run this programme. 
+These can be downloaded here:
 
 https://processing.org/download/
 
